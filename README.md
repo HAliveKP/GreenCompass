@@ -66,8 +66,8 @@ A modern, AI-powered carbon footprint tracking and analysis application focused 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HAliveKP/fun.git
-   cd fun
+   git clone https://github.com/HAliveKP/GreenCompass.git
+   cd GreenCompass
    ```
 
 2. **Install dependencies**
@@ -110,7 +110,7 @@ npm run preview
 ## 🏗️ Project Structure
 
 ```
-fun/
+GreenCompass/
 ├── public/              # Static assets
 ├── src/
 │   ├── App.jsx          # Main application component
